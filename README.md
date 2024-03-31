@@ -10,6 +10,7 @@ Big Data : Spark <br>
 Data Science :  topic with practical implementation<br>
 Cloud Computing :  AWS iam , Lambda<br>
 Projects : Task Management<br>
+Algorihtms to revise 1 each 
 
 ## Phase II:
 Language : javascript<br>
@@ -20,6 +21,7 @@ Big Data : Spark<br>
 Data Science :  topic with practical implementation<br>
 Cloud Computing : S3 bucket , EC2<br>
 Projects : Task Management <br>
+Algorihtms to revise 1 each 
 
 ## Phase III:
 Language : TypeScript<br>
@@ -30,6 +32,7 @@ Big Data : Spark<br>
 Data Science : topic with practical implementation<br>
 Cloud Computing : redshift<br>
 Projects : Task Management <br>
+Algorihtms to revise 1 each  
 
 
 | Topics            | Phase I  |  Phase II | Phase III |
