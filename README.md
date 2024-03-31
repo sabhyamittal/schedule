@@ -1,6 +1,6 @@
 # Schedule
 
-## Phase I:
+## Phase I: 
 
 Language : Python<br>
 Leetcode : 5 question daily (atleast 50 qustions in phase 1)<br>
