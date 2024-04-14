@@ -34,14 +34,27 @@ Cloud Computing : redshift<br>
 Projects : Task Management <br>
 Algorihtms to revise 1 each  
 
+## 11:15 hrs study plan:
+6:00 - 12:00<br>
+2hr :python<br>
+1hr 45min :dsa<br>
+1hr 30 min : Project<br>
+1 hr : spark<br>
+1 hr: cloud<br>
+1 hr: data warehouse<br>
+1 hr: ML<br>
+1 hr: SQL<br>
+1 hr: leetcode<br>
 
-| Topics            | Phase I  |  Phase II | Phase III |
-| ------------------| -------- | ----------|-----------|
-| Languages         |          |           |           |
-| Leetcode          |          |           |           |
-| SQL               |          |           |           |
-| Data Warehousing  |          |           |           |
-| Big Data          |          |           |           |
-| Data Science      |          |           |           |
-| Cloud Computing   |          |           |           |
-| Projetcs          |          |           |           |
+| Topics            | Phase I topics which are to be covered |  completed topics |  |
+| ------------------| --------                               | ----------        |-----------|
+| Python            | implementation                         |                  |           |
+| Leetcode          |  trees                                 |    8 question   |           |
+| SQL               |                                        |                   |           |
+| Data Warehousing  |                                        |                   |           |
+| Big Data          |                                        |                   |           |
+| Data Science      |                                        |                   |           |
+| Cloud Computing   |                                        |                   |           |
+| Projetcs          |                                        |                   |           |
+| Spark             |                                        |                   |           | 
+| DSA               | trees                                  | Traversals        |
