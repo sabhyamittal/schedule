@@ -46,15 +46,15 @@ Algorihtms to revise 1 each
 1 hr: SQL<br>
 1 hr: leetcode<br>
 
-| Topics            | Phase I topics which are to be covered |  completed topics |  |
+| Topics            | Phase I topics which are to be covered |  15 april | 17 april  |
 | ------------------| --------                               | ----------        |-----------|
-| Python            | implementation                         |                  |           |
-| Leetcode          |  trees                                 |    8 question   |           |
-| SQL               |                                        |                   |           |
+| Python            | implementation                         |:white_check_mark:| :white_check_mark:|
+| Leetcode          |  trees                                 | :white_check_mark: | :white_check_mark:          |
+| SQL               |                                        |                   |  :white_check_mark:         |
 | Data Warehousing  |                                        |                   |           |
 | Big Data          |                                        |                   |           |
 | Data Science      |                                        |                   |           |
 | Cloud Computing   |                                        |                   |           |
 | Projetcs          |                                        |                   |           |
 | Spark             |                                        |                   |           | 
-| DSA               | trees                                  | Traversals        |
+| DSA               | trees                                  | :white_check_mark:        |:white_check_mark:|
