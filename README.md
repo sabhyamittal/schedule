@@ -46,15 +46,15 @@ Algorihtms to revise 1 each
 1 hr: SQL<br>
 1 hr: leetcode<br>
 
-| Topics            | Phase I topics which are to be covered |  15 april | 17 april  |
-| ------------------| --------                               | ----------        |-----------|
+| Topics            | Phase I topics which are to be covered |  Day1 | Day2  |Day3|
+| ------------------| --------                               | ---------- |-----------|-------------|
 | Python            | implementation                         |:white_check_mark:| :white_check_mark:|
 | Leetcode          |  trees                                 | :white_check_mark: | :white_check_mark:          |
 | SQL               |                                        |                   |  :white_check_mark:         |
 | Data Warehousing  |                                        |                   |           |
-| Big Data          |                                        |                   |           |
-| Data Science      |                                        |                   |           |
-| Cloud Computing   |                                        |                   |           |
+| Big Data          |                                        |                   |           |:white_check_mark:
+| Data Science      |                                        |                   |           |:white_check_mark:
+| Cloud Computing   |                                        |                   |           |:white_check_mark:
 | Projetcs          |                                        |                   |           |
-| Spark             |                                        |                   |           | 
-| DSA               | trees                                  | :white_check_mark:        |:white_check_mark:|
+| Spark             |                                        |                   |           | :white_check_mark:
+| DSA               | trees                                  | :white_check_mark:        |:white_check_mark:|:white_check_mark:
